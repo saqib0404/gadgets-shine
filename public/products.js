@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "category": "laptops",
+        "img": "https://i.ibb.co.com/Hppv1btS/laptop-cover-mockup.png",
+        "name": "Dell XPS 13",
+        "price": 999.99,
+        "status": "In Stock",
+        "specs": [
+            "13.4” FHD+ InfinityEdge display",
+            "Intel Core i7-1165G7",
+            "16GB LPDDR4x RAM",
+            "512GB NVMe SSD",
+            "Intel Iris Xe Graphics",
+            "Up to 12 hours battery life"
+        ],
+        "rating": 4.7,
+        "description": "A sleek, ultraportable laptop with a virtually borderless FHD+ display and powerful Intel i7 performance for on‑the‑go productivity."
+    },
+    {
+        "id": 2,
+        "category": "phones",
+        "img": "https://i.ibb.co.com/qFdvNdp9/samsung-galaxy-s20-mockup.png",
+        "name": "Samsung Galaxy S21",
+        "price": 799.00,
+        "status": "In Stock",
+        "specs": [
+            "6.2” Dynamic AMOLED 2X",
+            "Exynos 2100 / Snapdragon 888",
+            "8GB RAM",
+            "128GB storage",
+            "Triple-lens rear camera",
+            "4000mAh battery"
+        ],
+        "rating": 4.5,
+        "description": "Flagship smartphone with a vivid Dynamic AMOLED display, flagship‑level performance, versatile triple cameras, and all‑day battery life."
+    },
+    {
+        "id": 3,
+        "category": "smart watches",
+        "img": "https://i.ibb.co.com/hFGHrJQJ/android-smartwatch-mockup.png",
+        "name": "Apple Watch Series 4",
+        "price": 15.99,
+        "status": "In Stock",
+        "specs": [
+            "Qi-certified fast charging",
+            "10W for Samsung",
+            "7.5W for iPhone",
+            "Non-slip silicone pad"
+        ],
+        "rating": 4.1,
+        "description": "A compact, Qi‑certified wireless charger with fast‑charging support for multiple devices and a non‑slip surface for secure placement."
+    },
+    {
+        "id": 4,
+        "category": "smart watches",
+        "img": "https://i.ibb.co.com/HTkVfFKB/iwatch-screen-mockup.jpg",
+        "name": "Apple Watch Series 7",
+        "price": 399.00,
+        "status": "In Stock",
+        "specs": [
+            "45mm Always-On Retina display",
+            "S7 SiP dual‑core processor",
+            "GPS + Cellular",
+            "All-day battery life",
+            "Water resistant 50m",
+            "Blood Oxygen & ECG sensors"
+        ],
+        "rating": 4.8,
+        "description": "Enhanced Always‑On Retina display and advanced health sensors in a durable, swim‑proof design powered by the S7 chip."
+    },
+    {
+        "id": 5,
+        "category": "macbook",
+        "img": "https://i.ibb.co.com/Mxpf8smw/macbook-pro-mockup.png",
+        "name": "MacBook Pro 14‑inch",
+        "price": 1999.00,
+        "status": "In Stock",
+        "specs": [
+            "14.2” Liquid Retina XDR display",
+            "Apple M1 Pro chip",
+            "16GB unified memory",
+            "512GB SSD",
+            "Up to 17 hours battery",
+            "Three Thunderbolt 4 ports"
+        ],
+        "rating": 4.9,
+        "description": "Professional‑grade laptop with a stunning XDR display, M1 Pro performance, and long battery life for demanding workflows."
+    },
+    {
+        "id": 6,
+        "category": "iphone",
+        "img": "https://i.ibb.co.com/8nrg9bMy/iphone-11-pro-gold-mockup.png",
+        "name": "iPhone 13 Pro",
+        "price": 999.00,
+        "status": "In Stock",
+        "specs": [
+            "6.1” Super Retina XDR",
+            "A15 Bionic chip",
+            "6GB RAM",
+            "128GB storage",
+            "Pro camera system",
+            "Ceramic Shield front"
+        ],
+        "rating": 4.6,
+        "description": "High‑performance smartphone with A15 Bionic power, ProMotion display, and versatile camera system for stunning photos and video."
+    },
+    {
+        "id": 7,
+        "category": "laptops",
+        "img": "https://i.ibb.co.com/Lzzfys6X/standing-ipad-mockup-1.png",
+        "name": "HP Spectre x360",
+        "price": 1199.99,
+        "status": "In Stock",
+        "specs": [
+            "13.5” 3K2K OLED touchscreen",
+            "Intel Core i7-1165G7",
+            "16GB RAM",
+            "512GB SSD",
+            "360° convertible hinge",
+            "Up to 10 hours battery life"
+        ],
+        "rating": 4.4,
+        "description": "Versatile 2‑in‑1 convertible with a vibrant OLED touchscreen, powerful Intel performance, and flexible hinge design."
+    },
+    {
+        "id": 8,
+        "category": "phones",
+        "img": "https://i.ibb.co.com/TMzjxT3M/iphone-x-mockup.png",
+        "name": "Google Pixel 6",
+        "price": 599.00,
+        "status": "In Stock",
+        "specs": [
+            "6.4” AMOLED display",
+            "Google Tensor chip",
+            "8GB RAM",
+            "128GB storage",
+            "Dual rear cameras",
+            "4614mAh battery"
+        ],
+        "rating": 4.2,
+        "description": "AI‑powered smartphone with a bright AMOLED display, Google Tensor performance, and advanced camera features."
+    },
+    {
+        "id": 9,
+        "category": "phones",
+        "img": "https://i.ibb.co.com/KpJ0dsWy/galaxy-s10-mockup.png",
+        "name": "Galaxy S10",
+        "price": 279.00,
+        "status": "In Stock",
+        "specs": [
+            "Active noise cancellation",
+            "True wireless design",
+            "Up to 6 hours playtime",
+            "IPX4 water resistant",
+            "Customizable touch controls",
+            "Charging case included"
+        ],
+        "rating": 4.5,
+        "description": "Premium true wireless earbuds with industry‑leading noise cancellation and rich, balanced sound for immersive listening."
+    }
+]
