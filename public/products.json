@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "category": "laptops",
+        "category": "Laptops",
         "img": "https://i.ibb.co.com/Hppv1btS/laptop-cover-mockup.png",
         "name": "Dell XPS 13",
         "price": 999.99,
@@ -19,7 +19,7 @@
     },
     {
         "id": 2,
-        "category": "phones",
+        "category": "Phones",
         "img": "https://i.ibb.co.com/qFdvNdp9/samsung-galaxy-s20-mockup.png",
         "name": "Samsung Galaxy S21",
         "price": 799.00,
@@ -37,7 +37,7 @@
     },
     {
         "id": 3,
-        "category": "smart watches",
+        "category": "Smart watches",
         "img": "https://i.ibb.co.com/hFGHrJQJ/android-smartwatch-mockup.png",
         "name": "Apple Watch Series 4",
         "price": 15.99,
@@ -53,7 +53,7 @@
     },
     {
         "id": 4,
-        "category": "smart watches",
+        "category": "Smart watches",
         "img": "https://i.ibb.co.com/HTkVfFKB/iwatch-screen-mockup.jpg",
         "name": "Apple Watch Series 7",
         "price": 399.00,
@@ -71,7 +71,7 @@
     },
     {
         "id": 5,
-        "category": "macbook",
+        "category": "Laptops",
         "img": "https://i.ibb.co.com/Mxpf8smw/macbook-pro-mockup.png",
         "name": "MacBook Pro 14‑inch",
         "price": 1999.00,
@@ -89,7 +89,7 @@
     },
     {
         "id": 6,
-        "category": "iphone",
+        "category": "Phones",
         "img": "https://i.ibb.co.com/8nrg9bMy/iphone-11-pro-gold-mockup.png",
         "name": "iPhone 13 Pro",
         "price": 999.00,
@@ -107,7 +107,7 @@
     },
     {
         "id": 7,
-        "category": "laptops",
+        "category": "Laptops",
         "img": "https://i.ibb.co.com/Lzzfys6X/standing-ipad-mockup-1.png",
         "name": "HP Spectre x360",
         "price": 1199.99,
@@ -125,7 +125,7 @@
     },
     {
         "id": 8,
-        "category": "phones",
+        "category": "Phones",
         "img": "https://i.ibb.co.com/TMzjxT3M/iphone-x-mockup.png",
         "name": "Google Pixel 6",
         "price": 599.00,
@@ -143,7 +143,7 @@
     },
     {
         "id": 9,
-        "category": "phones",
+        "category": "Phones",
         "img": "https://i.ibb.co.com/KpJ0dsWy/galaxy-s10-mockup.png",
         "name": "Galaxy S10",
         "price": 279.00,

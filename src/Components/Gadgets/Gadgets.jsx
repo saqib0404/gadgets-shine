@@ -7,16 +7,15 @@ const Gadgets = () => {
     const [products, setProducts] = useState([]);
 
     useEffect(() => {
-        fetch("categories.js")
+        fetch("/categories.json")
             .then(res => res.json())
             .then(data => setCategories(data))
     }, [])
     useEffect(() => {
-        fetch("products.js")
+        fetch("/products.json")
             .then(res => res.json())
             .then(data => setProducts(data))
     }, []);
-
 
     return (
         <div className=' max-w-screen-2xl md:px-20 mx-auto'>
