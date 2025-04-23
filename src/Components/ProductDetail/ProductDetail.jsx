@@ -23,12 +23,12 @@ const ProductDetail = () => {
                     Explore the latest gadgets that will take your experience to the next level. From smart devices to <br /> the coolest accessories, we have it all!
                 </p>
 
-                <div className="hero bg-white max-w-screen-lg mx-auto mb-20 rounded-xl">
-                    <div className="hero-content flex-col lg:flex-row">
+                <div className="hero bg-white max-w-screen-lg mx-auto mb-20 rounded-xl px-2">
+                    <div className="hero-content flex-col lg:flex-row ">
                         <img
                             src={img}
                             alt={category}
-                            className="max-w-sm sm:max-w-lg md:max-w-md rounded-xl"
+                            className="max-w-sm sm:max-w-lg md:max-w-md rounded-xl md:mr-2"
                         />
                         <div>
                             <h1 className="text-4xl font-bold">{name}</h1>
