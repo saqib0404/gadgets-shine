@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import { Helmet } from 'react-helmet-async';
 import { MdOutlineFavoriteBorder, MdOutlineShoppingCart } from 'react-icons/md';
 import { useLoaderData, useParams } from 'react-router'
 
@@ -13,6 +14,9 @@ const ProductDetail = () => {
 
     return (
         <section className="relative">
+            <Helmet>
+                <title>Details | Gadgets Shine</title>
+            </Helmet>
             {/* Purple background half-height */}
             <div className="absolute top-0 left-0 w-full h-1/2 bg-purple-600 z-0"></div>
 

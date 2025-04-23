@@ -10,8 +10,6 @@ const NavBar = () => {
             <li><NavLink>Dashboard</NavLink></li>
         </>
     const location = useLocation();
-    console.log(location);
-
 
     return (
         <div
