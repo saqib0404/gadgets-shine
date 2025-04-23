@@ -1,6 +1,6 @@
 import React from 'react'
 import { MdOutlineFavoriteBorder, MdOutlineShoppingCart } from 'react-icons/md'
-import { Link, NavLink } from 'react-router'
+import { Link, NavLink, useLocation } from 'react-router'
 
 const NavBar = () => {
     const navLink =
@@ -9,12 +9,16 @@ const NavBar = () => {
             <li><NavLink>Satictics</NavLink></li>
             <li><NavLink>Dashboard</NavLink></li>
         </>
-        
+    const location = useLocation();
+    console.log(location);
+
 
     return (
         <div
-         className="navbar bg-purple-600 text-white max-w-screen-2xl md:px-20 mx-auto mt-7 rounded-t-3xl"
-         >
+            className={`navbar  md:px-20 mx-auto mt-7 rounded-t-3xl
+                ${location.pathname === "/" ? "bg-purple-600 text-white max-w-screen-2xl" : "bg-white"}
+                `}
+        >
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -33,7 +37,10 @@ const NavBar = () => {
                     </div>
                     <ul
                         tabIndex={0}
-                        className="menu text-lg menu-sm dropdown-content bg-purple-600 rounded-box z-[1] mt-3 ml-5 w-52 p-2 shadow">
+                        className={`menu text-lg menu-sm dropdown-content rounded-box z-[1] mt-3 ml-5 w-52 p-2 shadow
+                            ${location.pathname !== "/" && "bg-white text-black"}
+                            `}
+                    >
                         {navLink}
                     </ul>
                 </div>
@@ -45,7 +52,7 @@ const NavBar = () => {
                 </ul>
             </div>
             <div className="navbar-end text-2xl md:text-4xl">
-                <MdOutlineShoppingCart className='border rounded-full text-black p-1 bg-white '  />
+                <MdOutlineShoppingCart className='border rounded-full text-black p-1 bg-white ' />
                 <MdOutlineFavoriteBorder className='border rounded-full text-black p-1 bg-white m-3' />
             </div>
         </div>
