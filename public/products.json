@@ -9,10 +9,7 @@
         "specs": [
             "13.4” FHD+ InfinityEdge display",
             "Intel Core i7-1165G7",
-            "16GB LPDDR4x RAM",
-            "512GB NVMe SSD",
-            "Intel Iris Xe Graphics",
-            "Up to 12 hours battery life"
+            "16GB LPDDR4x RAM"
         ],
         "rating": 4.7,
         "description": "A sleek, ultraportable laptop with a virtually borderless FHD+ display and powerful Intel i7 performance for on‑the‑go productivity."
@@ -28,9 +25,7 @@
             "6.2” Dynamic AMOLED 2X",
             "Exynos 2100 / Snapdragon 888",
             "8GB RAM",
-            "128GB storage",
-            "Triple-lens rear camera",
-            "4000mAh battery"
+            "128GB storage"
         ],
         "rating": 4.5,
         "description": "Flagship smartphone with a vivid Dynamic AMOLED display, flagship‑level performance, versatile triple cameras, and all‑day battery life."
@@ -45,8 +40,7 @@
         "specs": [
             "Qi-certified fast charging",
             "10W for Samsung",
-            "7.5W for iPhone",
-            "Non-slip silicone pad"
+            "7.5W for iPhone"
         ],
         "rating": 4.1,
         "description": "A compact, Qi‑certified wireless charger with fast‑charging support for multiple devices and a non‑slip surface for secure placement."
@@ -61,10 +55,7 @@
         "specs": [
             "45mm Always-On Retina display",
             "S7 SiP dual‑core processor",
-            "GPS + Cellular",
-            "All-day battery life",
-            "Water resistant 50m",
-            "Blood Oxygen & ECG sensors"
+            "GPS + Cellular"
         ],
         "rating": 4.8,
         "description": "Enhanced Always‑On Retina display and advanced health sensors in a durable, swim‑proof design powered by the S7 chip."
@@ -80,9 +71,7 @@
             "14.2” Liquid Retina XDR display",
             "Apple M1 Pro chip",
             "16GB unified memory",
-            "512GB SSD",
-            "Up to 17 hours battery",
-            "Three Thunderbolt 4 ports"
+            "512GB SSD"
         ],
         "rating": 4.9,
         "description": "Professional‑grade laptop with a stunning XDR display, M1 Pro performance, and long battery life for demanding workflows."
@@ -97,10 +86,7 @@
         "specs": [
             "6.1” Super Retina XDR",
             "A15 Bionic chip",
-            "6GB RAM",
-            "128GB storage",
-            "Pro camera system",
-            "Ceramic Shield front"
+            "6GB RAM"
         ],
         "rating": 4.6,
         "description": "High‑performance smartphone with A15 Bionic power, ProMotion display, and versatile camera system for stunning photos and video."
@@ -116,9 +102,7 @@
             "13.5” 3K2K OLED touchscreen",
             "Intel Core i7-1165G7",
             "16GB RAM",
-            "512GB SSD",
-            "360° convertible hinge",
-            "Up to 10 hours battery life"
+            "512GB SSD"
         ],
         "rating": 4.4,
         "description": "Versatile 2‑in‑1 convertible with a vibrant OLED touchscreen, powerful Intel performance, and flexible hinge design."
@@ -133,10 +117,7 @@
         "specs": [
             "6.4” AMOLED display",
             "Google Tensor chip",
-            "8GB RAM",
-            "128GB storage",
-            "Dual rear cameras",
-            "4614mAh battery"
+            "8GB RAM"
         ],
         "rating": 4.2,
         "description": "AI‑powered smartphone with a bright AMOLED display, Google Tensor performance, and advanced camera features."
@@ -151,10 +132,7 @@
         "specs": [
             "Active noise cancellation",
             "True wireless design",
-            "Up to 6 hours playtime",
-            "IPX4 water resistant",
-            "Customizable touch controls",
-            "Charging case included"
+            "Up to 6 hours playtime"
         ],
         "rating": 4.5,
         "description": "Premium true wireless earbuds with industry‑leading noise cancellation and rich, balanced sound for immersive listening."
